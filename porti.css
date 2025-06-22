@@ -901,4 +901,4 @@ section {
 /* Scroll suave para navegação */
 .nav-link[href^="#"] {
     scroll-behavior: smooth;
-}}
+}
